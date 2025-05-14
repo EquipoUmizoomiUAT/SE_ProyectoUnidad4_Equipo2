@@ -1,0 +1,27 @@
+{
+  "name": "se_proyectounidad4_equipo2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EquipoUmizoomiUAT/SE_ProyectoUnidad4_Equipo2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EquipoUmizoomiUAT/SE_ProyectoUnidad4_Equipo2/issues"
+  },
+  "homepage": "https://github.com/EquipoUmizoomiUAT/SE_ProyectoUnidad4_Equipo2#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
